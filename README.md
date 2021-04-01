@@ -22,7 +22,10 @@ A TypeScript example prject - coded for learning purposes by following this [tut
 ## Compiling a *.js file to a *.ts file
  - Inside the root directory of the project run
   `tsc`
+  
+## Run server
 
+`yarn install && node server.js`
 
 ## Authors
 
