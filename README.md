@@ -10,8 +10,9 @@ A Typescript example project - coded for learning purposes.
 - Express server
 - Nodejs
 
+[Deployed site](https://bluette1.github.io/Pokedex/)
 
-## Description
+#### Description
 
 A TypeScript example prject - coded for learning purposes by following this [tutorial](https://www.freecodecamp.org/news/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript/).
 
