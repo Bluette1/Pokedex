@@ -1,0 +1,19 @@
+{
+  "name": "Pokedex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bluette1/Pokedex.git",
+  "author": "Bluette1 <marylene.sawyer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "devstart": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "tslint": "^6.1.3"
+  }
+}
